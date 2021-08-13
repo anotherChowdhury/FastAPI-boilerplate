@@ -9,8 +9,8 @@
 
 ### This repository is being made following below articles somewhat
 
-1. [Build an async python service with FastAPI & SQLAlchemy
-   ](https://towardsdatascience.com/build-an-async-python-service-with-fastapi-sqlalchemy-196d8792fa08)
+1.[Build an async python service with FastAPI & SQLAlchemy
+](https://towardsdatascience.com/build-an-async-python-service-with-fastapi-sqlalchemy-196d8792fa08)
 
 2.[Simplifying SQLAlchemy models by creating a BaseModel
 ](https://dev.to/chidioguejiofor/making-sqlalchemy-models-simpler-by-creating-a-basemodel-3m9c)
