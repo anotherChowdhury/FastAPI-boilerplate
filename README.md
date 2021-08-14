@@ -19,3 +19,5 @@
 
 4.[Implementing FastAPI Services – Abstraction and Separation of Concerns
 ](https://camillovisini.com/article/abstracting-fastapi-services/)
+
+## Choyon's Suggestions
